@@ -1,0 +1,13 @@
+google-api-python-client
+confluent-kafka
+pymongo
+streamlit
+textblob
+pyspark
+numpy
+pandas
+plotly
+scikit-learn
+hdfs
+python-dotenv
+vaderSentiment
